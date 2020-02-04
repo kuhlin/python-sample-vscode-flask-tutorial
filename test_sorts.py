@@ -1,1 +1,2 @@
-assert 6 == 6
+def test_testunit():
+    assert 6 == 6
